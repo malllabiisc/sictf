@@ -1,0 +1,1298 @@
+Verb Phrase: clicks:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: submits:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 25	request	changes	change	error	
+
+Latent Factor : 15	form	data	comment	information	
+Latent Factor : 9	data	password	username	information	
+
+
+
+Verb Phrase: moves:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+
+
+Verb Phrase: has submitted:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 9	data	password	username	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+
+
+Verb Phrase: has downloaded:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: have selected:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: may download:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: must upload:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: emails:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: choses:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: starts downloading:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: has saved:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: is filling:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: can not submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: resubmits:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: starts filling:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: sumbits:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: could submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: would submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: had submitted:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: must fill:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: should fill:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: has submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: has finished filling:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: resubmit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: hack:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: must submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: is completing:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: has not submitted:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: may submit:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: clicked:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 1	button	link	item	image	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: selects:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 28	option	value	choice	item	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+
+
+Verb Phrase: would click:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 49	radio buttons	buttons	title bar	progress bar	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 48	html code	sample code	code	example code	
+
+
+
+Verb Phrase: has clicked:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 46	names	file names	column names	class names	
+
+
+
+Verb Phrase: will click:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 16	field	one field	password field	id field	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 45	class name	type name	file name	name	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: has viewed:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: might leave:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: will print:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: will refresh:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: had scrolled:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: was leaving:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: can print:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: scrolling:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: can bookmark:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: can like:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: has refreshed:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: is refreshing:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: starts scrolling:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: reloaded:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: has not liked:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: does not refresh:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: refreshs:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: can reload:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: scrolled:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: refreshed:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: watching:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 20	program files	css files	xml files	class files	
+
+
+
+Verb Phrase: refreshes:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 19	browser	window	dialog	tab	
+
+Latent Factor : 19	browser	window	dialog	tab	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: has launched:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: fills:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 15	form	data	comment	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 16	field	one field	password field	id field	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 30	form fields	custom fields	fields	text fields	
+
+
+
+Verb Phrase: has authenticated:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: can click:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+Latent Factor : 16	field	one field	password field	id field	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: uninstalls:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: launches:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+
+
+Verb Phrase: has liked:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+
+
+Verb Phrase: likes:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: authorizes:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+
+
+Verb Phrase: moving:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 44	line number	phone number	page number	number	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: is not moving:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 44	line number	phone number	page number	number	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: rolls:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 44	line number	phone number	page number	number	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: does not move:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 44	line number	phone number	page number	number	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: lifts:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 41	access	permission	ability	permissions	
+
+Latent Factor : 44	line number	phone number	page number	number	
+Latent Factor : 34	mouse	slider	map	window	
+
+
+
+Verb Phrase: liked:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+
+
+Verb Phrase: reloads:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 19	browser	window	dialog	tab	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 1	button	link	item	image	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: exists using:	
+
+Latent Factor : 2	file	answer	files	directory	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 8	mysql database	database	data	use jquery	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 2	file	answer	files	directory	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+
+
+Verb Phrase: has authorized:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: click:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+Latent Factor : 16	field	one field	password field	id field	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: leaving:	
+
+Latent Factor : 19	browser	window	dialog	tab	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+
+
+Verb Phrase: has uploaded:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 14	class files	xml files	css files	object files	
+
+
+
+Verb Phrase: could click:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 1	button	link	item	image	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 27	email id	user id	session id	id	
+
+
+
+Verb Phrase: is moving:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 19	browser	window	dialog	tab	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 6	buy button	play button	list view	view	
+
+
+
+Verb Phrase: uploads:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 15	form	data	comment	information	
+Latent Factor : 2	file	answer	files	directory	
+
+
+
+Verb Phrase: starts using:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: has dragged:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 30	form fields	custom fields	fields	text fields	
+
+
+
+Verb Phrase: would upload:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 30	form fields	custom fields	fields	text fields	
+
+
+
+Verb Phrase: downloaded:	
+
+Latent Factor : 19	browser	window	dialog	tab	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+
+
+Verb Phrase: will choose:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 18	item	row	date	cell	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 28	option	value	choice	item	
+
+
+
+Verb Phrase: has scrolled:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 49	radio buttons	buttons	title bar	progress bar	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 23	base class	class	activity class	list	
+
+
+
+Verb Phrase: hovers:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 34	mouse	slider	map	window	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 34	mouse	slider	map	window	
+Latent Factor : 1	button	link	item	image	
+
+
+
+Verb Phrase: installs:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 26	table	one table	user table	tables	
+
+
+
+Verb Phrase: can refresh:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 9	data	password	username	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 8	mysql database	database	data	use jquery	
+
+
+
+Verb Phrase: refresh:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 19	browser	window	dialog	tab	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 1	button	link	item	image	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: continue using:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 29	phone number	page number	email address	line number	
+
+
+
+Verb Phrase: bookmarks:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 9	data	password	username	information	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+
+
+Verb Phrase: has selected:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 28	option	value	choice	item	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 3	value	text	name	values	
+
+
+
+Verb Phrase: can load:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 30	form fields	custom fields	fields	text fields	
+
+
+
+Verb Phrase: opens:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+
+
+Verb Phrase: is uploading:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 2	file	answer	files	directory	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 14	class files	xml files	css files	object files	
+
+
+
+Verb Phrase: has used:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 33	app	application	site	activity	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 12	file system	operating system	system	service	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+
+
+Verb Phrase: viewing:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 13	page	error	activity	app	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 21	master page	tag	script tag	script tags	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 32	one page	fan page	home page	login page	
+
+
+
+Verb Phrase: can capture:	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 42	image	files	images	video	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 30	form fields	custom fields	fields	text fields	
+
+Latent Factor : 0	user	users	client	person	
+Latent Factor : 23	base class	class	activity class	list	
+
