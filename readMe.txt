@@ -1,4 +1,4 @@
-**Relation Schema Induction:**
+#Relation Schema Induction:
 
 Given a set of documents from a specific domain
 (e.g., medical research journals), how do
