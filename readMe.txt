@@ -1,4 +1,4 @@
-**SICTF** solves the problem of Relation Schema Induction, defined below. Given the surface triples as a Tensor, Noun Phrase Side Information as a Matrix and Relation similarity as a Matrix, SICTF performs a joint factorization. 
+SICTF solves the problem of Relation Schema Induction, defined below. Given the surface triples as a Tensor, Noun Phrase Side Information as a Matrix and Relation similarity as a Matrix, SICTF performs a joint factorization. 
 
 For more technical details, please refer to : http://talukdar.net/papers/emnlp16_SICTF.pdf [EMNLP 2016]
 
