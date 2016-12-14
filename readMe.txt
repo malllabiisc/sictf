@@ -8,7 +8,7 @@ Given a set of documents from a specific domain (e.g., medical research journals
 
 Dependencies:
 
-numpy, scipy
+numpy, scipy, python3.3 or above.
 
 
 Help for running the setup.
