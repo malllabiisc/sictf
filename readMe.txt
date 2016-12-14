@@ -6,7 +6,9 @@ Relation Schema Induction:
 
 Given a set of documents from a specific domain (e.g., medical research journals), how do we automatically build a Knowledge Graph (KG) for that domain? Automatic identification of relations and their schemas, i.e., type signature of arguments of relations (e.g., undergo(Patient, Surgery)), is an important first step towards this goal. We refer to this problem as Relation Schema Induction (RSI).
 
+Dependencies:
 
+numpy, scipy
 
 
 Help for running the setup.
