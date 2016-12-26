@@ -26,11 +26,10 @@ usage: tensorCreatorForCNNRescalWithScores.py [-h]
                                               relSim
 
 positional arguments:
-  inputFolder     Enter the name of folder which containts the data file :
-  fname           Enter name of the file that is the source of triplets :
-  sideInfoMatrix  Enter the name the file that contains side information :
-  relSim          Enter the name of the file that contains Verb phrase
-                  Similarity information :
+  * inputFolder     Enter the name of folder which containts the data file
+  * fname           Enter name of the file that is the source of triplets
+  * sideInfoMatrix  Enter the name the file that contains side information
+  * relSim          Enter the name of the file that contains Verb phrase Similarity information
 
 optional arguments:
   -h, --help      show this help message and exit
@@ -45,24 +44,24 @@ usage: runCRescal.py [-h]
                      fitFlag lA lR lV Ws Wrs
 
 positional arguments:
-  outputFolderName  Enter the name of the Output Folder :
-  minRank           Enter Rank for min Rescal Decomposition :
-  maxRank           Enter Rank for max Rescal Decomposition :
-  step              Enter step for Rank (Please ensure minRank +n*step =
+  * outputFolderName  Enter the name of the Output Folder :
+  * minRank           Enter Rank for min Rescal Decomposition :
+  * maxRank           Enter Rank for max Rescal Decomposition :
+  * step              Enter step for Rank (Please ensure minRank +n*step =
                     maxRank):
-  Top               Enter cut-off for top Entities:
-  TopRC             Enter cut-off for top RelMatrix Entries:
-  maxIters          Enter Max no. of iterations:
-  fitFlag           Enter True is fit computation desired, False if not, None
+  * Top               Enter cut-off for top Entities:
+  * TopRC             Enter cut-off for top RelMatrix Entries:
+  * maxIters          Enter Max no. of iterations:
+  * fitFlag           Enter True is fit computation desired, False if not, None
                     for uncertainity (Advised to keep as False)
-  lA                Enter Lambda A
-  lR                Enter Lambda R
-  lV                Enter Lambda V
-  Ws                Enter Side Info term weight
-  Wrs               Enter Relation Similarity term weight
+  * lA                Enter Lambda A
+  * lR                Enter Lambda R
+  * lV                Enter Lambda V
+  * Ws                Enter Side Info term weight
+  * Wrs               Enter Relation Similarity term weight
 
 optional arguments:
-  -h, --help        show this help message and exit
+  * -h, --help        show this help message and exit
 
 ## Reference
 [1] Madhav Nimishakavi, Uday Singh Saini and Partha Talukdar. Relation Schema Induction using Tensor Factorization with Side Information. November 2016. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP 2016).
