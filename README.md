@@ -25,13 +25,13 @@ usage: tensorCreatorForCNNRescalWithScores.py [-h]
                                               inputFolder fname sideInfoMatrix
                                               relSim
 
-positional arguments:
+### positional arguments:
   * inputFolder     Enter the name of folder which containts the data file
   * fname           Enter name of the file that is the source of triplets
   * sideInfoMatrix  Enter the name the file that contains side information
   * relSim          Enter the name of the file that contains Verb phrase Similarity information
 
-optional arguments:
+### optional arguments:
   -h, --help      show this help message and exit
 
 
@@ -43,7 +43,7 @@ usage: runCRescal.py [-h]
                      outputFolderName minRank maxRank step Top TopRC maxIters
                      fitFlag lA lR lV Ws Wrs
 
-positional arguments:
+### positional arguments:
   * outputFolderName  Enter the name of the Output Folder :
   * minRank           Enter Rank for min Rescal Decomposition :
   * maxRank           Enter Rank for max Rescal Decomposition :
@@ -60,7 +60,7 @@ positional arguments:
   * Ws                Enter Side Info term weight
   * Wrs               Enter Relation Similarity term weight
 
-optional arguments:
+### optional arguments:
   * -h, --help        show this help message and exit
 
 ## Reference
