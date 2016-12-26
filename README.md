@@ -2,18 +2,17 @@
 
 Given a set of documents from a specific domain (e.g., medical research journals), how do we automatically build a Knowledge Graph (KG) for that domain? Automatic identification of relations and their schemas, i.e., type signature of arguments of relations (e.g., undergo(Patient, Surgery)), is an important first step towards this goal. We refer to this problem as Relation Schema Induction (RSI).
 
-
+## SICTF
 
 SICTF solves the problem of Relation Schema Induction, defined below. Given the surface triples as a Tensor, Noun Phrase Side Information as a Matrix and Relation similarity as a Matrix, SICTF performs a joint factorization. 
 
-For more technical details, please refer to : http://talukdar.net/papers/emnlp16_SICTF.pdf [EMNLP 2016]
 
+## Dependencies:
 
-Dependencies:
-
+Please install the following dependencies for SCITF to run:
 numpy, scipy, python3.3 or above.
 
-
+## Help
 Help for running the setup.
 
 Place the triples and side information in a folder at the same level as *.py scripts
@@ -65,5 +64,16 @@ positional arguments:
 optional arguments:
   -h, --help        show this help message and exit
 
+## Reference
 
-  
+@InProceedings{nimishakavi-saini-talukdar:2016:EMNLP2016,
+  author    = {Nimishakavi, Madhav  and  Saini, Uday Singh  and  Talukdar, Partha},
+  title     = {Relation Schema Induction using Tensor Factorization with Side Information},
+  booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
+  month     = {November},
+  year      = {2016},
+  address   = {Austin, Texas},
+  publisher = {Association for Computational Linguistics},
+  pages     = {414--423},
+  url       = {https://aclweb.org/anthology/D16-1040}
+}
