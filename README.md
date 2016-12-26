@@ -65,15 +65,4 @@ optional arguments:
   -h, --help        show this help message and exit
 
 ## Reference
-
-@InProceedings{nimishakavi-saini-talukdar:2016:EMNLP2016,
-  author    = {Nimishakavi, Madhav  and  Saini, Uday Singh  and  Talukdar, Partha},
-  title     = {Relation Schema Induction using Tensor Factorization with Side Information},
-  booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
-  month     = {November},
-  year      = {2016},
-  address   = {Austin, Texas},
-  publisher = {Association for Computational Linguistics},
-  pages     = {414--423},
-  url       = {https://aclweb.org/anthology/D16-1040}
-}
+[1] Madhav Nimishakavi, Uday Singh Saini and Partha Talukdar. Relation Schema Induction using Tensor Factorization with Side Information. November 2016. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP 2016).
