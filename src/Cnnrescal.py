@@ -534,7 +534,8 @@ def _updateR(X, A, R, lmbdaR, Wrs):
 	# print(R.shape)
 	# input('...: ')
 
-	Ro = Parallel(n_jobs=num_cores, verbose=1)(delayed(parSliceR)(X[i], A, At, AtA, R[i], lmbdaR, Wrs, i) for i in range(len(X)))
+	#Ro = Parallel(n_jobs=num_cores, verbose=1)(delayed(parSliceR)(X[i], A, At, AtA, R[i], lmbdaR, Wrs, i) for i in range(len(X)))
+	Ro = Parallel(n_jobs=num_cores, backend= 'multiprocessing',verbose=1)(delayed(parSliceR)(X[i], A, At, AtA, R[i], lmbdaR, Wrs, i) for i in range(len(X)))
 	return Ro
 
 
