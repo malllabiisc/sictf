@@ -7,10 +7,43 @@ Given a set of documents from a specific domain (e.g., medical research journals
 SICTF solves the problem of Relation Schema Induction, defined below. Given the surface triples as a Tensor, Noun Phrase Side Information as a Matrix and Relation similarity as a Matrix, SICTF performs a joint factorization. 
 
 
-## Dependencies:
+## Setup:
+
+To get the project's source code, clone the github repository:
+
+    $ git clone https://github.com/malllabiisc/sictf.git
+
+Install VirtualEnv in python3 using the following (optional):
+
+    $ [sudo] apt-get install python3-pip
+    $ [sudo] pip3 install virtualenv 
+
+Create and activate your virtual environment (optional):
+
+    $ virtualenv venv
+    $ source venv/bin/activate
+
+Install all the required packages (dependencies):
+
+    $ pip3 install -r requirements.txt
+
+
+### Dependencies:
 
 Please install the following dependencies for SCITF to run:
-numpy, scipy, python3.3 or above.
+numpy, scipy, scikit-learn, joblib, python3.3 or above.
+
+
+
+## Usage:
+
+To use sictf, you can start with these following samples commands:
+
+    $ python3 tensorCreatorForCNNRescalWithScores.py ../Data/Medline/ Triples.txt NpSideInfo.txt RelSim.txt
+    $ python3 runCRescal.py outfolder 10 10 1 3 3 20 False 0.1 0.1 0.1 0.1 0.1
+
+
+
 
 ## Help
 Help for running the setup.
@@ -19,7 +52,7 @@ Place the triples and side information in a folder at the same level as *.py scr
 
 Run the Following commands sequentially afterwards ( with -h flag for help)
 
-python3 tensorCreatorForCNNRescalWithScores.py
+    python3 tensorCreatorForCNNRescalWithScores.py
 
 usage: tensorCreatorForCNNRescalWithScores.py [-h]
                                               inputFolder fname sideInfoMatrix
@@ -37,7 +70,7 @@ usage: tensorCreatorForCNNRescalWithScores.py [-h]
 
 ##########
 
-python3 runCRescal.py -h
+    python3 runCRescal.py -h
 
 usage: runCRescal.py [-h]
                      outputFolderName minRank maxRank step Top TopRC maxIters
@@ -62,6 +95,8 @@ usage: runCRescal.py [-h]
 
 ### optional arguments:
   * -h, --help        show this help message and exit
+
+
 
 ## Reference
 [1] Madhav Nimishakavi, Uday Singh Saini and Partha Talukdar. Relation Schema Induction using Tensor Factorization with Side Information. November 2016. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP 2016).
